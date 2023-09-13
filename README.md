@@ -21,3 +21,6 @@ When I tried `az webapp up` to re-deploy I was presented with an error that read
 I then added the run time flag  --runtime <PYTHON:3.9> to `az webapp up` this fixed the error 
 once I deployed I realized that there was an application error. On azure I looked at the log streams I saw there was an error, the error was "no module named pandas." I relized this was because I misspelled requirenments.txt file (silly mistake). 
 I re-deployed after fixing my mistake, by using `az webapp up --runtime <PYTHON:3.9>` 
+
+
+# This is my deployed URL of my application : fahima-504-flask.azurewebsites.net
