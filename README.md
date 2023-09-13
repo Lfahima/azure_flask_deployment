@@ -42,4 +42,4 @@ I re-deployed after fixing my mistake, by using `az webapp up --runtime <PYTHON:
 
 ## This is my deployed URL of my application: 
 
-([fahima-504-flask.azurewebsites.net](https://fahima-504-flask.azurewebsites.net/)https://fahima-504-flask.azurewebsites.net/) 
+[fahima-504-flask.azurewebsites.net](https://fahima-504-flask.azurewebsites.net/)
